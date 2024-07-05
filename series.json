@@ -1,0 +1,37 @@
+{
+    "series": [
+        {
+            "name": "Game of Thrones",
+            "banner": "game_of_thrones/banniere.jpg",
+            "seasons": [
+                {
+                    "number": 1,
+                    "episodes": [
+                        { "title": "Winter Is Coming", "video": "game_of_thrones/saison1/episode1.mp4" },
+                        { "title": "The Kingsroad", "video": "game_of_thrones/saison1/episode2.mp4" }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "episodes": [
+                        { "title": "The North Remembers", "video": "game_of_thrones/saison2/episode1.mp4" },
+                        { "title": "The Night Lands", "video": "game_of_thrones/saison2/episode2.mp4" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Stranger Things",
+            "banner": "stranger_things/banniere.jpg",
+            "seasons": [
+                {
+                    "number": 1,
+                    "episodes": [
+                        { "title": "Chapter One: The Vanishing of Will Byers", "video": "stranger_things/saison1/episode1.mp4" },
+                        { "title": "Chapter Two: The Weirdo on Maple Street", "video": "stranger_things/saison1/episode2.mp4" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
